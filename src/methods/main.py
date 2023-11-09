@@ -22,8 +22,8 @@ url_match = start_url_match + puuid + end_url_match + api_key
 reponse_match = requests.get(url_match)
 reponse_match.json()
 
-# print(summonerID)
-# print(accountId)
-# print(puuid)
-# print(summonerLevel)
+print(summonerID)
+print(accountId)
+print(puuid)
+print(summonerLevel)
 print(reponse_match)
