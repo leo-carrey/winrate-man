@@ -2,7 +2,7 @@ import ast
 import requests
 import json
 
-api_key = "RGAPI-a0515db0-0fff-4942-a3d4-38fdff274c8d"
+api_key = ""
 name = "maustach"
 
 start_url_summoner = "https://euw1.api.riotgames.com/lol/summoner/v4/summoners/by-name/"
